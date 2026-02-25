@@ -29,7 +29,7 @@
 > Todo esto junto forma un registro.  
 > Es una sola cosa, una sola fila de información.
 
-📌 Idea clave:
+📌 Idea clave:  
 👉 Un registro es la información completa de un solo elemento.
 
 🟢 Paso 2: La tabla
@@ -50,7 +50,7 @@
 
 > Entonces, una tabla es simplemente una lista ordenada de registros que tienen la misma estructura de organización.
 
-📌 Idea clave:
+📌 Idea clave:  
 👉 Una tabla es un conjunto de registros.
 
 🟢 Paso 3: La base de datos
@@ -72,7 +72,7 @@
 
 > A todo ese conjunto de tablas lo llamamos base de datos.
 
-📌 Idea clave:
+📌 Idea clave:  
 👉 Una base de datos es un conjunto de tablas relacionadas.
 
 🟢 Relación entre tablas (sin tecnicismos)
@@ -90,8 +90,8 @@
 
 > Resumamos todo en una sola frase:
 
-👉 Un registro es un dato
-👉 Una tabla es un conjunto de registros
-👉 Una base de datos es un conjunto de tablas relacionadas
+👉 Un registro es un dato  
+👉 Una tabla es un conjunto de registros  
+👉 Una base de datos es un conjunto de tablas relacionadas  
 
 > Si entendemos esto, ya entendemos la base de las bases de datos. 😊
