@@ -90,7 +90,7 @@
 
 > Resumamos todo en una sola frase:
 
-👉 Un registro es un dato  
+👉 Un registro es una fila  
 👉 Una tabla es un conjunto de registros  
 👉 Una base de datos es un conjunto de tablas relacionadas  
 
