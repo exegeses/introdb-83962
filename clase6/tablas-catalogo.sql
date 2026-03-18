@@ -9,7 +9,7 @@ create table marcas
 create table categorias
 (
     idCategoria tinyint unsigned primary key auto_increment,
-    categorias varchar(50) unique not null
+    categoria varchar(50) unique not null
 );
 
 create table productos
