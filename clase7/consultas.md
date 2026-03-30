@@ -14,7 +14,7 @@
     -- ver cuál es la base de datos activa  
     SELECT DATABASE(); 
 
-## Consultra sa tablas
+## Consultas a tablas
 
     -- ver la estructura de una tabla  
     DESCRIBE nombreTabla;  
